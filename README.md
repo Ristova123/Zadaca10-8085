@@ -11,7 +11,7 @@
 **Resenie:**
 
 
-![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-10/blob/main/Diagram%2010.png)
+![Screenshot (1)](https://github.com/Ristova123/Zadaca10-8085/blob/main/Diagram%2010.png)
 ```
 N DS 1 ;дефинираме бројач
 
@@ -109,9 +109,9 @@ ZAPRI_MPS: HLT
 
 ```
 
- ![Screenshot (2)](https://github.com/slavko444/8085-Zadaca-10/blob/main/Code%2010.1.png)
- ![Screenshot (3)](https://github.com/slavko444/8085-Zadaca-10/blob/main/Code%2010.2.png)
- ![Screenshot (4)](https://github.com/slavko444/8085-Zadaca-10/blob/main/Code%2010.3.png)
+ ![Screenshot (2)](https://github.com/Ristova123/Zadaca10-8085/blob/main/Code%2010.1.png)
+ ![Screenshot (3)](https://github.com/Ristova123/Zadaca10-8085/blob/main/Code%2010.2.png)
+ ![Screenshot (4)](https://github.com/Ristova123/Zadaca10-8085/blob/main/Code%2010.3.png)
  
 **Develop by:**
 
